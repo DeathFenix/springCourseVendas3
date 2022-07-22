@@ -1,0 +1,12 @@
+@SpringBootApplication		- diz qual classe é a classe que inicializa uma aplicação spring
+
+# - SpringApplication.run()	- inicialialzia a aplicação
+
+@GetMapping("/hello")
+
+
+
+@Configuration -> @Bean
+@Component -> @Controller
+		   -> @Service
+		   -> @Repository
